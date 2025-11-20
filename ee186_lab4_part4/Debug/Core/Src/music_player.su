@@ -1,0 +1,8 @@
+../Core/Src/music_player.c:56:11:sine_table_init	32	static
+../Core/Src/music_player.c:66:11:square_table_init	24	static
+../Core/Src/music_player.c:74:11:saw_table_init	24	static
+../Core/Src/music_player.c:86:6:set_note_freq	32	static
+../Core/Src/music_player.c:95:5:snap_freq_to_note	40	static
+../Core/Src/music_player.c:117:6:music_player_init	8	static
+../Core/Src/music_player.c:121:6:music_player_update_frequency	24	static
+../Core/Src/music_player.c:128:10:music_player_get_dac_output	16	static
